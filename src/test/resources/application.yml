@@ -1,0 +1,7 @@
+kafka:
+  application:
+    groupId: my-test-group
+spring:
+  kafka:
+    listener:
+      concurrency: 2
